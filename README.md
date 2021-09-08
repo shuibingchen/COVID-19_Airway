@@ -9,7 +9,7 @@ Infection." *Cell Reports*, in press](https://github.com/shuibingchen/COVID-19_A
 The single cell RNA-seq data were generated with the 10X Chromium and
 pre-processed using 10X cellranger pipeline. The raw data are available in the
 GEO database with
-accession#[GSE160231](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160231).
+accession# [GSE160231](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160231).
 
 ### Requirements
 The following R packages are needed:
