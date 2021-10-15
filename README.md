@@ -3,7 +3,7 @@
 This repository contains the R scripts necessary to perform the analysis in our
 paper [Duan, Xiaohua et al. "An Airway Organoid-Based Screen Identifies a Role
 for the HIF1a-Glycolysis Axis in SARS-CoV-2
-Infection." *Cell Reports*, in press](https://github.com/shuibingchen/COVID-19_Airway), as described in the supplementary methods and main text.
+Infection." *Cell Reports*, in press](https://www.sciencedirect.com/science/article/pii/S2211124721013930), as described in the supplementary methods and main text.
 
 ### Input data
 The single cell RNA-seq data were generated with the 10X Chromium and
